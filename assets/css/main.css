@@ -115,6 +115,7 @@ body {
     background-size: 100px 100px, cover, cover;
     background-position: top left, center center, bottom center;
     background-attachment: fixed, fixed, fixed;
+    user-select: none;
 }
 
 /*noinspection CssOverwrittenProperties*/
