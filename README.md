@@ -1,7 +1,10 @@
-<img src="https://iTer99.github.io/repo/assets/images/avatar.png" alt="iTer99" width="300" height="300">
+# iTer99's Repo
+This is the [iTer99's repo](https://github.com/iTer99/iTer99.github.io), restored to its working state.
+It has useful jailbreak tweaks such as RoundMe.
 
-## Info:
+## How to add
+1. Open Sileo | Zebra | Installer | Cydia
+2. Go to the sources page (depends on your package manager)
+3. Add the repo `https://denis0001-dev.github.io/iter99-repo`
 
-- Facebook at <a href="http://www.facebook.com/nguyenthienhoann" target="_blank">`nguyenthienhoann`</a>
-- Twitter at <a href="http://twitter.com/ngthienhoan" target="_blank">`@ngthienhoan`</a>
-- Or send [Mail](mailto:hoan.nguyen.16999@gmail.com) for me
+Done!
